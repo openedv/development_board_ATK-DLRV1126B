@@ -1,0 +1,5 @@
+All the connector datasheets provided here are for your reference when designing footprints (footprints are the same for components from different manufacturers).
+
+This does not mean that APM32 uses components of these brands.
+
+The actual brand of components used on the development board shall prevail!
